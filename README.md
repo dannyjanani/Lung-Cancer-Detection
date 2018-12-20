@@ -1,4 +1,4 @@
-# 4563 Final Project
+# Lung Cancer Detection - Machine Learning Project
 ####                  Abigail Rhue, Danny Janani
 The goal of the project is to predict the type of cancer a person has based on images of a person's lungs. 
 Although there are different types of cancer stages, the clincal T stage was the only one considered.
