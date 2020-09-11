@@ -1,5 +1,6 @@
 # Lung Cancer Detection - Machine Learning Project
 ####                  Abigail Rhue, Danny Janani
+A machine learning project to predict the type of cancer a person has based on images of a person's lungs.
 
 ## Project Overview
 The goal of the project is to predict the type of cancer a person has based on images of a person's lungs. 
