@@ -45,3 +45,20 @@ The final presentation presented in class is found here: [Final Presentation](ht
 * Convolution
 
 ## Skills Used
+
+* Software:
+  * Python
+  * Google Cloud
+  * Tensorflow
+  * Numpy
+  * Jupyter Notebook
+  * Anaconda
+  * Keras
+  
+* Knowledge Acquired: 
+  * Formulating tasks as machine learning problems.
+  * Loading, pre-processing, and extracting features from common data sources.
+  * Mathematically describing simple models of the data.
+  * Fitting the models to the data and using models for prediction and estimation.
+  * Evaluating goodness of fit and refining models.
+  * Evaluating the performance of methods using statistical techniques.
